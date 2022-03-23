@@ -1,0 +1,18 @@
+{
+  "name": "v13",
+  "version": "1.0.0",
+  "main": "thealoq.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node thealoq.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.7.5",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.1.7",
+    "path": "^0.12.7"
+  }
+}
